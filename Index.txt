@@ -1,0 +1,46 @@
+## Index of source code examples:
+
+\Add barcode to pdf with barcode sdk
+\Add barcodes to image with barcode sdk
+\Add barcodes to new pdf with barcode sdk
+\Add barcodes to tiff with barcode sdk
+\Add images to spreadsheet with spreadsheet sdk
+\Barcode image preprocessing filters with barcode reader sdk
+\Barcode reading profiles with barcode reader sdk
+\Barcodes to excel with barcode reader sdk
+\Batch barcode generation with barcode sdk
+\Batch read barcodes from files with barcode reader sdk
+\Caption font with barcode sdk
+\Change cell background color with spreadsheet sdk
+\Change column height with spreadsheet sdk
+\Change fore and back color with barcode sdk
+\Change row height with spreadsheet sdk
+\Command line use with barcode sdk
+\Convert csv to xls with spreadsheet sdk
+\Copy data between spreadsheets with spreadsheet sdk
+\Create barcode from excel with barcode sdk
+\Create barcode from excel with spreadsheet sdk
+\Create simple spreadsheet with spreadsheet sdk
+\Custom pdf417 configuration with barcode sdk
+\Export to html with spreadsheet sdk
+\Generate barcode with barcode sdk
+\Generate barcodes from text file with barcode sdk
+\Generate pdf417 barcode with barcode sdk
+\Merge cells and set alignment with spreadsheet sdk
+\Monochrome bitmap with barcode sdk
+\Qr code barcode with image inside with barcode sdk
+\Read barcode from pdf with barcode reader sdk
+\Read barcode from webcam or scanner with barcode reader sdk
+\Read code 39 to excel with barcode reader sdk
+\Read qr code to excel with barcode reader sdk
+\Rename files to barcode values with barcode reader sdk
+\Save as pdf with spreadsheet sdk
+\Search barcodes in documents and write results to file with barcode reader sdk
+\Set 2 captions for barcode with barcode sdk
+\Set bar code size in inches with barcode sdk
+\Set barcode size with barcode sdk
+\Simple barcode reading with barcode reader sdk
+\Use rich text formatting with spreadsheet sdk
+\Barcodes to excel with barcode reader sdk\InputFiles
+\Read code 39 to excel with barcode reader sdk\InputFiles
+\Read qr code to excel with barcode reader sdk\InputFiles
